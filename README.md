@@ -1,70 +1,82 @@
-# Getting Started with Create React App
+<h3 align="center"> AI Modern UI/UX Website</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
 
-## Available Scripts
+## 🤖 Introduction
 
-In the project directory, you can run:
+Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS with the help of Javascript Mastery , exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
-### `npm start`
+## ⚙️ Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- React.js
+- Tailwind CSS
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Screens
 
-### `npm test`
+**On Desktop screens**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img src="src/assets/previews/brainwave_lg.PNG" alt="Desktop Preview" width="500" />
 
-### `npm run build`
+**On Tablet screens**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img src="src/assets/previews/brainwave_md.PNG" alt="Desktop Preview" width="500" />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**On mobile screens**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src="src/assets/previews/brainwave_sm.PNG" alt="Desktop Preview" width="500" />
 
-### `npm run eject`
+## 🔋 Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+👉 **Latest UI Trends**: Incorporates modern design elements such as bento grids.
 
-## Learn More
+👉 **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+and many more, including code architecture and reusability
 
-### Code Splitting
+## 🤸 Quick Start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Follow these steps to set up the project locally on your machine.
 
-### Analyzing the Bundle Size
+**Prerequisites**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Make sure you have the following installed on your machine:
 
-### Making a Progressive Web App
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Cloning the Repository**
 
-### Advanced Configuration
+```bash
+git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
+cd brainwave
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+**Installation**
 
-### Deployment
+Install the project dependencies using npm:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+```bash
+npm install
+```
 
-### `npm run build` fails to minify
+**Running the Project**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
+Thanks for your support
